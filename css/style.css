@@ -1,0 +1,46 @@
+/* img {
+    vertical-align: middle;
+} */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 5%;
+    width: 5%;
+  }
+
+header {
+    background-color: rgb(229, 235, 235);
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+h1, h2 {
+    color: rgb(99, 99, 246);
+    background-color: #c9cfcf;
+    letter-spacing: 5px;
+    word-spacing: 5 px;
+}
+
+.lista_sin_puntuacion {
+    list-style: none;
+}
+
+footer {
+    color: white;
+    background-color: rgb(24, 23, 83);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.fa {
+    color: white;
+}
